@@ -1,0 +1,61 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "yQ+rTDuaWet2YH1rdiIysyCKaDk=",
+			"path": "github.com/go-redis/redis",
+			"revision": "02692634419948b2dfd20b2057c51b24f3775db9",
+			"revisionTime": "2018-05-31T18:40:56Z"
+		},
+		{
+			"checksumSHA1": "L/n8TwOiRwhhL2TvFNafxB6rAwY=",
+			"path": "github.com/go-redis/redis/internal",
+			"revision": "02692634419948b2dfd20b2057c51b24f3775db9",
+			"revisionTime": "2018-05-31T18:40:56Z"
+		},
+		{
+			"checksumSHA1": "GQZsUVg/+6UpQAYpc4luMvMutSI=",
+			"path": "github.com/go-redis/redis/internal/consistenthash",
+			"revision": "02692634419948b2dfd20b2057c51b24f3775db9",
+			"revisionTime": "2018-05-31T18:40:56Z"
+		},
+		{
+			"checksumSHA1": "GE9tg94JwCzMbBwn3Q2LaFs5Rx0=",
+			"path": "github.com/go-redis/redis/internal/hashtag",
+			"revision": "02692634419948b2dfd20b2057c51b24f3775db9",
+			"revisionTime": "2018-05-31T18:40:56Z"
+		},
+		{
+			"checksumSHA1": "MAwurWthIlVoynFQu1LRY0IrftQ=",
+			"path": "github.com/go-redis/redis/internal/pool",
+			"revision": "02692634419948b2dfd20b2057c51b24f3775db9",
+			"revisionTime": "2018-05-31T18:40:56Z"
+		},
+		{
+			"checksumSHA1": "2DZs/18lBWzZk2rxWLVtPUzNXhs=",
+			"path": "github.com/go-redis/redis/internal/proto",
+			"revision": "02692634419948b2dfd20b2057c51b24f3775db9",
+			"revisionTime": "2018-05-31T18:40:56Z"
+		},
+		{
+			"checksumSHA1": "sjbjSJrTdvyDwNjrWjTNeXgUhaU=",
+			"path": "github.com/go-redis/redis/internal/singleflight",
+			"revision": "02692634419948b2dfd20b2057c51b24f3775db9",
+			"revisionTime": "2018-05-31T18:40:56Z"
+		},
+		{
+			"checksumSHA1": "SvyqZrzHTVxCIBoawql2ucvfWLE=",
+			"path": "github.com/go-redis/redis/internal/util",
+			"revision": "02692634419948b2dfd20b2057c51b24f3775db9",
+			"revisionTime": "2018-05-31T18:40:56Z"
+		},
+		{
+			"checksumSHA1": "ljd3FhYRJ91cLZz3wsH9BQQ2JbA=",
+			"path": "github.com/pkg/errors",
+			"revision": "816c9085562cd7ee03e7f8188a1cfd942858cded",
+			"revisionTime": "2018-03-11T21:45:15Z"
+		}
+	],
+	"rootPath": "github.com/noettore/xkcdBot"
+}
